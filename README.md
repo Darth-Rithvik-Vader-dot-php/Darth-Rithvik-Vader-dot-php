@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darth-Rithvik-Vader-dot-php
-- 👀 I’m interested in Macchine Learning & Artificial Intelligence
+- 👀 I’m interested in Machine Learning & Artificial Intelligence
 - 🌱 I’m currently learning on Sonic Pi, AI & ML tech
 - 💞️ I’m looking to collaborate on ML & AI projects
 - 📫 How to reach me: Mail me at abd234keds@gmail.com
